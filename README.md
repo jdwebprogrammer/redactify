@@ -4,9 +4,6 @@
 
 A tiny, fast GTK app for Linux that helps you **scrub sensitive data** (like local file paths, usernames, API keys) from stack traces and logs — so you can **safely paste into AI tools** without leaking private info.
 
-![Redactify Screenshot](https://i.imgur.com/placeholder.png)  
-*(Clean, minimal interface — input, removal list, output.)*
-
 ---
 
 ## Why Redactify?
@@ -38,7 +35,6 @@ Just:
 
 ## Run
 
-Then run from anywhere:
 ```bash
 python redactify.py
 ```
